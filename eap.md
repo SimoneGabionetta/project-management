@@ -61,5 +61,11 @@ Relembrar conceitos:
 17. Monitoramento do progresso do projeto
 [passo a passo]("./estimar-tempo.md)
 
+18. Baseline parcial
+[passo a passo]("./estimar-tempo.md)
+
+19. Gerando relatórios
+[passo a passo]("./estimar-tempo.md)
+
 
 

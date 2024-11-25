@@ -1,4 +1,7 @@
-## Monitorando progresso
+## Monitorando progresso 
+
+
+### Prazos
 
 * Gantt de Controlo -Porcentagens - 0% porque não foi realizada
 
@@ -26,4 +29,12 @@ Configuraçao
 
     * se eu gastei menos tempo em uma atividade- preciso anotar em uma nova coluna
     * clicar coluna Plano Base com botao dieito > inserir coluna > trabalho restante > preenche com 0 o trabalho restante > automaticamente o Project marca como concluida
+
+
+### Comparar os custos
+
+Para monitorar usar as colunas base com real ( base:2hs valor $40,00 real:4hrs-$80,00)
+
+    * pode monitorar por atividade (você)
+    * pode monitorar pelo resumo ( pessoa acima)
 
